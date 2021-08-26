@@ -1,0 +1,31 @@
+{
+  "name": "desafio11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramegp/ApiRest-backend.git"
+  },
+  "author": "ramegp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramegp/ApiRest-backend/issues"
+  },
+  "homepage": "https://github.com/ramegp/ApiRest-backend#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2",
+    "ts-node": "^10.2.0"
+  }
+}
