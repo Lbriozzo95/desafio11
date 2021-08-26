@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Buzos",
+		"price": 4800,
+		"thumbnail": "/foto1.png",
+		"id": 1
+	},
+	{
+		"title": "Mayas",
+		"price":780,
+		"thumbnail": "/foto2.png",
+		"id": 2
+	},
+	{
+		"title": "Camperas",
+		"price": 5700,
+		"thumbnail": "/foto3.png",
+		"id": 3
+	}
+]
